@@ -1,6 +1,6 @@
 # Project Overview
 
-Online reviews play a crucial role in shaping public perception of local businesses. However, the presence of irrelevant, misleading, or low-quality reviews can distort the true reputation of a place. This project was developed for a hackathon challenge on assessing the quality and relevancy of Google location reviews.
+Online reviews play a crucial role in shaping public perception of local businesses. However, the presence of irrelevant, misleading, or low-quality reviews can distort the true reputation of a place. This project was developed for the **TechJam Hackathon** challenge on assessing the quality and relevancy of Google location reviews.
 
 We built a classification pipeline that labels reviews into four categories:
 
